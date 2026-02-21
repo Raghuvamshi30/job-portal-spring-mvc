@@ -29,3 +29,12 @@ This project demonstrates layered architecture and full CRUD functionality.
 ---
 
 ## 📂 Project Structure
+src/main/java/com/spring/JobApp
+│
+├── Controller
+├── Service
+├── Repository
+├── model
+│
+src/main/webapp/views (JSP files)
+src/main/resources/static (CSS & Images)
